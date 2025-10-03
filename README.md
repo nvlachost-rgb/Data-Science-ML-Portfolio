@@ -11,12 +11,12 @@ Contents
 
 | Notebook | Topic | Technologies & Methods | Highlights |
 |----------|-------|-----------------------|------------|
-| MSDS680_Machine_Learning_Course_Project_Nick_Vlachostergios.ipynb | Handwritten Letter Recognition (EMNIST) | Deep Learning (Keras/TensorFlow), CNN, Model Comparison | Custom architectures, robust benchmarking, ~93% accuracy |
-| HW3_DS650_Nick_Vlachostergios.ipynb | SMS Spam Detection | NLP (TF-IDF, Lemmatizer, Stemming), ML (LogReg, RF), Imbalanced Metrics | Feature engineering, grid search, F1-score >98% |
-| Exercise_2_Nick_Vlachostergios.ipynb | Wine Dataset Clustering | Data Cleaning, PCA, K-means, EDA | Exploratory analysis, unsupervised learning & metrics |
-| Exercise_3_Nick_Vlachostergios.ipynb | Soil Data Cluster Analysis | K-means, Silhouette, Data Viz | Cluster evaluation and insights |
-| Exercise_5.ipynb | Custom Deep CNN Design | CNN, BatchNorm, Learning Rate Schedulers | Advanced architecture and performance tuning |
-| exercise_4_nick_vlachostergios.py | Fashion MNIST Clustering & Visualization | PCA, t-SNE, KMeans, Voronoi Visualization | End-to-end unsupervised learning, unique visual analysis |
+| Handwritten-Letter-Recognition-EMNIST-Deep-Learning-Benchmarking.ipynb | Handwritten Letter Recognition | Deep Learning (Keras/TensorFlow), CNN, Model Comparison | Custom architectures, robust benchmarking, ~93% accuracy |
+| SMS-Spam-Detection-with-NLP-and-Machine-Learning.ipynb | SMS Spam Detection | NLP (TF-IDF, Lemmatizer, Stemming), ML (LogReg, RF), Imbalanced Metrics | Feature engineering, grid search, F1-score >98% |
+| Wine-Dataset-Clustering-Exploration-PCA-and-K-Means-Analysis.ipynb | Wine Dataset Clustering | Data Cleaning, PCA, K-means, EDA | Exploratory analysis, unsupervised learning & metrics |
+| Soil-Data-Cluster-Analysis-Using-K-Means-and-Silhouette-Scores.ipynb | Soil Data Cluster Analysis | K-means, Silhouette, Data Viz | Cluster evaluation and insights |
+| Custom-CNN-Architectures-for-Image-Classification.ipynb | Custom Deep CNN Design | CNN, BatchNorm, Learning Rate Schedulers | Advanced architecture and performance tuning |
+| Fashion-MNIST-PCA-tSNE-and-KMeans-Clustering-with-Voronoi-Visualization.ipynb | Fashion MNIST Clustering & Visualization | PCA, t-SNE, KMeans, Voronoi Visualization | End-to-end unsupervised learning, unique visual analysis |
 
 ---
 
